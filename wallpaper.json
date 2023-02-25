@@ -79,21 +79,27 @@
    }
 ],
 "social": [{
-    "title":"Remnant on Web",
+    "title":"Remnnat on Web",
     "link":[
     {
-      "url": "https://www.facebook.com/dheeraj.khushlani.5",
+      "url": "https://www.facebook.com/profile.php?id=100069907298475&sk=about",
       "iconUrl": "https://www.freepnglogos.com/uploads/facebook-logo-13.png"
     },
     {
-      "url": "https://www.instagram.com/dheeraj_khushlani/",
+      "url": "https://www.instagram.com/remnant_for_the_now/",
       "iconUrl":
         "https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"
     },
     {
-      "url": "mailto:dheerajkhushalani2000@gmail.com",
+      "url": "mailto:remnantforthenow@gmail.com",
       "iconUrl":
         "https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-image-gmail-logo-gta-wiki-the-grand-theft-auto-4.png"
+    }
+    ,
+    {
+      "url": "https://www.youtube.com/@remnant5508",
+      "iconUrl":
+        "https://www.freepnglogos.com/uploads/youtube-play-button-png/youtube-play-button-file-youtube-play-buttom-icon-svg-wikimedia-commons-8.png"
     }
   ]},
   {
