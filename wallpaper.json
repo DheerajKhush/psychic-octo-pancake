@@ -77,6 +77,46 @@
     "startTime" : "9:30 PM",
     "title" : "Wednesday Meeting Topic- First Century Church"
    }
+],
+"social": [{
+    "title":"Remnant on Web",
+    "link":[
+    {
+      "url": "https://www.facebook.com/dheeraj.khushlani.5",
+      "iconUrl": "https://www.freepnglogos.com/uploads/facebook-logo-13.png"
+    },
+    {
+      "url": "https://www.instagram.com/dheeraj_khushlani/",
+      "iconUrl":
+        "https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"
+    },
+    {
+      "url": "mailto:dheerajkhushalani2000@gmail.com",
+      "iconUrl":
+        "https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-image-gmail-logo-gta-wiki-the-grand-theft-auto-4.png"
+    }
+  ]},
+  {
+    "title":"Contact Developer",
+    "link":[
+    {
+      "url": "https://www.facebook.com/dheeraj.khushlani.5",
+      "iconUrl": "https://www.freepnglogos.com/uploads/facebook-logo-13.png"
+    },
+    {
+      "url": "https://www.instagram.com/dheeraj_khushlani/",
+      "iconUrl":
+        "https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"
+    },
+    {
+      "url": "mailto:dheerajkhushalani2000@gmail.com",
+      "iconUrl":
+        "https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-image-gmail-logo-gta-wiki-the-grand-theft-auto-4.png"
+    }
+  ]}
 ]
+  
+
+
 
 }
