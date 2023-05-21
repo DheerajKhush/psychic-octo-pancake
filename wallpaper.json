@@ -1,128 +1,166 @@
-{ "wallpaper": [
-    {
-      "url": "https://drive.google.com/uc?export=download&id=12qVxokq-LzA3x6ym27zuNljF7mxM-9pg",
-      "id": "1"
-    },
-    {
-      "url": "https://drive.google.com/uc?export=download&id=12wf5xnvtbkTpa-84Aid1G1g3x-Ic5OZX",
-      "id": "2"
-    },
-    {
-      "url": "https://drive.google.com/uc?export=download&id=124Fe0M5wsCA4cF6toEl3DwW-kxKSebeD",
-      "id": "3"
-    },
-    {
-      "url": "https://drive.google.com/uc?export=download&id=11qQbSwpONJAj3Jr5FbWr-R4Ar9XrW6eY",
-      "id": "4"
-    },
-    {
-      "url": "https://drive.google.com/uc?export=download&id=11ljqlUPvSaHdgA8KSPJa0n8PGOAwc3gR",
-      "id": "5"
-    },
-    {
-      "url": "https://drive.google.com/uc?export=download&id=11tzleRgQBoZ-fKqzFDPGlY9fyJdtnSXy",
-      "id": "6"
-    },
-    {
-      "url": "https://drive.google.com/uc?export=download&id=12nudETy_YTvJ71sWCNMrcIshHkjyd_mY",
-      "id": "7"
-    },
-    {
-      "url": "https://drive.google.com/uc?export=download&id=124jQ20lORnS8j6HDk49VgRVpyr8vpD0c",
-      "id": "8"
-    },
-    {
-      "url": "https://drive.google.com/uc?export=download&id=12R4viNDipI-jOb7JTvoNU5U-ZMLLaydl",
-      "id": "9"
-    },
-    {
-        "url": "https://drive.google.com/uc?export=download&id=12IICwQElJFSvj8geySuZgBCGNGAKy9xb",
-        "id": "10"
-      },
-      {
-        "url": "https://drive.google.com/uc?export=download&id=12o7YyFTkC8sxYP0WnTcJ_pYaEogGfeT0",
-        "id": "11"
-      },
-      {
-        "url": "https://drive.google.com/uc?export=download&id=12SkXRs8FaiMZ0-2f45o_qRVxYi48DphB",
-        "id": "12"
-      }
-],
-"meetings" :[
 {
-    "endTime" : "Premiere",
-    "imageUrl" : "https://drive.google.com/uc?export=download&id=1ZTtpOy1SiW4RHUo8rebsiGshqRtmKvJI",
-    "link" : "https://www.youtube.com/channel/UC8_oGxCz84dcKUCFlKeJb4w?sub_confirmation=1",
-    "startTime" : "Sunday Broadcast",
-    "title" : "REMNANT Youtube"
-  },
-{
-    "endTime" : "12:00 PM",
-    "imageUrl" : "https://drive.google.com/uc?export=download&id=1m1U8bnoizOWWWq9f2EaMeou37zJgqFKT",
-    "link" : "https://meet.google.com/obk-wubk-ovp",
-    "startTime" : "10:00 AM",
-    "title" : "Sunday Church Service"
-  },
- {
-    "endTime" : "7:00 AM",
-    "imageUrl" : "https://drive.google.com/uc?export=download&id=12P7NVC9Hhp9jp1G1WhQ0chY_PTyn1ehJ",
-    "link" : "https://meet.google.com/zgi-qaxk-gcp",
-    "startTime" : "6:00 AM",
-    "title" : "Morning Tongues Prayer- Monday to Saturday"
-  },	
-{
-    "endTime" : "11:00 PM",
-    "imageUrl" : "https://drive.google.com/uc?export=download&id=11qQbSwpONJAj3Jr5FbWr-R4Ar9XrW6eY",
-    "link" : "https://meet.google.com/obk-wubk-ovp",
-    "startTime" : "9:30 PM",
-    "title" : "Wednesday Meeting Topic- First Century Church"
-   }
-],
-"social": [{
-    "title":"Remnnat on Web",
-    "link":[
-    {
-      "url": "https://www.facebook.com/profile.php?id=100069907298475&sk=about",
-      "iconUrl": "https://www.freepnglogos.com/uploads/facebook-logo-13.png"
-    },
-    {
-      "url": "https://www.instagram.com/remnant_for_the_now/",
-      "iconUrl":
-        "https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"
-    },
-    {
-      "url": "mailto:remnantforthenow@gmail.com",
-      "iconUrl":
-        "https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-image-gmail-logo-gta-wiki-the-grand-theft-auto-4.png"
-    }
-    ,
-    {
-      "url": "https://www.youtube.com/@remnant5508",
-      "iconUrl":
-        "https://www.freepnglogos.com/uploads/youtube-play-button-png/youtube-play-button-file-youtube-play-buttom-icon-svg-wikimedia-commons-8.png"
-    }
-  ]},
-  {
-    "title":"Contact Developer",
-    "link":[
-    {
-      "url": "https://www.facebook.com/dheeraj.khushlani.5",
-      "iconUrl": "https://www.freepnglogos.com/uploads/facebook-logo-13.png"
-    },
-    {
-      "url": "https://www.instagram.com/dheeraj_khushlani/",
-      "iconUrl":
-        "https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"
-    },
-    {
-      "url": "mailto:dheerajkhushalani2000@gmail.com",
-      "iconUrl":
-        "https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-image-gmail-logo-gta-wiki-the-grand-theft-auto-4.png"
-    }
-  ]}
-]
-  
-
-
-
+  "wallpaper":[
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12qVxokq-LzA3x6ym27zuNljF7mxM-9pg",
+        "id":"1"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12wf5xnvtbkTpa-84Aid1G1g3x-Ic5OZX",
+        "id":"2"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=124Fe0M5wsCA4cF6toEl3DwW-kxKSebeD",
+        "id":"3"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=11qQbSwpONJAj3Jr5FbWr-R4Ar9XrW6eY",
+        "id":"4"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=11ljqlUPvSaHdgA8KSPJa0n8PGOAwc3gR",
+        "id":"5"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=11tzleRgQBoZ-fKqzFDPGlY9fyJdtnSXy",
+        "id":"6"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12nudETy_YTvJ71sWCNMrcIshHkjyd_mY",
+        "id":"7"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=124jQ20lORnS8j6HDk49VgRVpyr8vpD0c",
+        "id":"8"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12R4viNDipI-jOb7JTvoNU5U-ZMLLaydl",
+        "id":"9"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12IICwQElJFSvj8geySuZgBCGNGAKy9xb",
+        "id":"10"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12o7YyFTkC8sxYP0WnTcJ_pYaEogGfeT0",
+        "id":"11"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12SkXRs8FaiMZ0-2f45o_qRVxYi48DphB",
+        "id":"12"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=1353Vq0S2HwrMxbUkS5NyGA9OwtS6pdxq",
+        "id":"13"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12CJwh0ah7w2zz1oUKFQve32q1NHJAe2_",
+        "id":"14"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=11ztLmbnzJB51xNlgOT7ge6DG2uApz2Xb",
+        "id":"15"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12CjztG_qUYMPHKQD2lBezSGqcr9L6bN2",
+        "id":"16"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12HQT5xiVj6lp1dkSuyI9NUJw0BzyK3Qd",
+        "id":"17"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12iloyVMopAJmfcSKXAxCaHvhS1HNVSsG",
+        "id":"18"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12FC9vZoHRNXoZ9MrRKPF04RA3kN79BQf",
+        "id":"19"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12vBlDfuhyW19SujYBIjtVUoWOTtt9c5I",
+        "id":"20"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=11r_hkqwTcDR6H2aQ4uvnMZDeF6rj4hj_",
+        "id":"21"
+     },
+     {
+        "url":"https://drive.google.com/uc?export=download&id=12DPqG2ppTzeaBHzJbniXAplasuXmNFiZ",
+        "id":"22"
+     }
+  ],
+  "meetings":[
+     {
+        "endTime":"Premiere",
+        "imageUrl":"https://drive.google.com/uc?export=download&id=1ZTtpOy1SiW4RHUo8rebsiGshqRtmKvJI",
+        "link":"https://www.youtube.com/channel/UC8_oGxCz84dcKUCFlKeJb4w?sub_confirmation=1",
+        "startTime":"Sunday Broadcast",
+        "title":"REMNANT Youtube"
+     },
+     {
+        "endTime":"12:00 PM",
+        "imageUrl":"https://drive.google.com/uc?export=download&id=1m1U8bnoizOWWWq9f2EaMeou37zJgqFKT",
+        "link":"https://meet.google.com/obk-wubk-ovp",
+        "startTime":"10:00 AM",
+        "title":"Sunday Church Service"
+     },
+     {
+        "endTime":"7:00 AM",
+        "imageUrl":"https://drive.google.com/uc?export=download&id=12P7NVC9Hhp9jp1G1WhQ0chY_PTyn1ehJ",
+        "link":"https://meet.google.com/zgi-qaxk-gcp",
+        "startTime":"6:00 AM",
+        "title":"Morning Tongues Prayer- Monday to Saturday"
+     },
+     {
+        "endTime":"11:00 PM",
+        "imageUrl":"https://drive.google.com/uc?export=download&id=11qQbSwpONJAj3Jr5FbWr-R4Ar9XrW6eY",
+        "link":"https://meet.google.com/obk-wubk-ovp",
+        "startTime":"9:30 PM",
+        "title":"Wednesday Meeting Topic- First Century Church"
+     }
+  ],
+  "social":[
+     {
+        "title":"Remnnat on Web",
+        "link":[
+           {
+              "url":"https://www.facebook.com/profile.php?id=100069907298475&sk=about",
+              "iconUrl":"https://www.freepnglogos.com/uploads/facebook-logo-13.png"
+           },
+           {
+              "url":"https://www.instagram.com/remnant_for_the_now/",
+              "iconUrl":"https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"
+           },
+           {
+              "url":"mailto:remnantforthenow@gmail.com",
+              "iconUrl":"https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-image-gmail-logo-gta-wiki-the-grand-theft-auto-4.png"
+           },
+           {
+              "url":"https://www.youtube.com/@remnant5508",
+              "iconUrl":"https://www.freepnglogos.com/uploads/youtube-play-button-png/youtube-play-button-file-youtube-play-buttom-icon-svg-wikimedia-commons-8.png"
+           }
+        ]
+     },
+     {
+        "title":"Contact Developer",
+        "link":[
+           {
+              "url":"https://www.facebook.com/dheeraj.khushlani.5",
+              "iconUrl":"https://www.freepnglogos.com/uploads/facebook-logo-13.png"
+           },
+           {
+              "url":"https://www.instagram.com/dheeraj_khushlani/",
+              "iconUrl":"https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"
+           },
+           {
+              "url":"mailto:dheerajkhushalani2000@gmail.com",
+              "iconUrl":"https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-image-gmail-logo-gta-wiki-the-grand-theft-auto-4.png"
+           },
+           {
+              "url":"https://www.youtube.com/channel/UCVF9lgQEqZ8kyUDruwOzUfQ",
+              "iconUrl":"https://www.freepnglogos.com/uploads/youtube-play-button-png/youtube-play-button-file-youtube-play-buttom-icon-svg-wikimedia-commons-8.png"
+           }
+        ]
+     }
+  ]
 }
