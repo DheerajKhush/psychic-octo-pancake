@@ -277,6 +277,15 @@
               "iconUrl":"https://www.freepnglogos.com/uploads/youtube-play-button-png/youtube-play-button-file-youtube-play-buttom-icon-svg-wikimedia-commons-8.png"
            }
         ]
-     }
+     },
+     {
+      "title":"Connect Us",
+      "link":[
+         {
+            "url":"https://chat.whatsapp.com/BnhVpfI8yNTE1AtBq71GaR",
+            "iconUrl":"https://www.freepnglogos.com/uploads/whatsapp-png-logo-7.png"
+         }
+      ]
+   }
   ]
 }
